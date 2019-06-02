@@ -1,0 +1,13 @@
+{
+  "name": "82-commandments",
+  "version": "1.0.0",
+  "description": "Reyna D'Assia's 82 commandments as told by Alejandro Jodorowsky",
+  "main": "index.js",
+  "keywords": [
+    "82 commandments",
+    "Reyna D'Assia",
+    "Alejandro Jodorowsky"
+  ],
+  "author": "Andrea Carraro <me@andreacarraro.it>",
+  "license": "ISC"
+}
