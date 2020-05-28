@@ -1,6 +1,6 @@
 # 82 commandments
 
-Reyna D'Assia's 82 commandments as told by Alejandro Jodorowsky available as a handy JS package.
+Gurdjieff's 82 commandments as told by Reyna D'Assia to Alejandro Jodorowsky available as a handy JS package.
 
 - Ground your attention on yourself. Be conscious at every moment of what you are thinking, sensing, feeling, desiring, and doing.
 - Always finish what you have begun.
